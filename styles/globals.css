@@ -14,6 +14,14 @@ body, * {
 a {
   color: inherit;
   text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  /* background-color: #f4eded; */
+  border-radius: 10px;
+  border: none;
+  margin-top: 5px;
+  margin-bottom: -5px;
+  padding: 10px 10px;
 }
 
 .main-container{
