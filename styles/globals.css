@@ -467,7 +467,18 @@ padding: 30px 65px;
   gap: 5px;
   align-items: center;
 }
-
+.product-detail-container{
+  background-color: #f3eeee;
+  padding: 40px;
+  border-radius: 10px;
+  border: none;
+}
+.maylike-products-wrapper{
+  background-color: #f3eeee;
+  padding: 30px;
+  border-radius: 10px;
+  border: none;
+}
 .product-detail-desc h4{
   margin-top: 10px;
 }
